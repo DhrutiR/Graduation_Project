@@ -1,3 +1,5 @@
 # Sequence Similarity Search of Nsp4 Protein (Corona Virus) Using PSI-BLAST
-This is my graduation final year paper. Here I used PSI-BLAST which is very powerfull tool for finding potential homologous of protein or DNA sequences.
-PSI-Blast is a very powerful way to identify potential homologous that may have been missed by the first round of a BLAST search.
+- In this paper I discussed about structure of the corona virus protein and their function with diagram
+- retrived the amino acid sequence of nsp4 protein using FASTA tool
+- sequence similarity check against nsp4 protein using BLAST tool
+- specifically I used PSI-BLAST here to find many distant members of a protein sequence family
